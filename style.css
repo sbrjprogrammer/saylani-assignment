@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.col-md-6 a:hover{
+    background-color: #316dc3;
+    color: whitesmoke;
+    border-radius: 20px;
+
+}
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
